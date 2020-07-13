@@ -51,5 +51,4 @@ if (_.isAwesome(thisRepo)) {
 ```
 ----
 
-
-[![github.com/logicinfinite](https://raw.githubusercontent.com/logicinfinite/logicinfinite/master/logicinfinite-graph.png)](https://github.com/logicinfinite/)
+ [![GitHub followers](https://img.shields.io/github/followers/logicinfinite.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/logicinfinite/)
