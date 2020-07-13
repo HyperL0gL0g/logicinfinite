@@ -10,7 +10,7 @@
 | [**Self-Updating-Youtube-VIdeo**](https://github.com/logicinfinite/self-updating-youtube-video-title) | [![GitHub issues](https://img.shields.io/github/issues/logicinfinite/self-updating-youtube-video-title?color=green&logo=github&style=flat)](https://github.com/logicinfinite/self-updating-youtube-video-title/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/logicinfinite/self-updating-youtube-video-title?style=flat&logo=github)](https://github.com/logicinfinite/self-updating-youtube-video-title/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/logicinfinite/self-updating-youtube-video-title?style=flat&color=critical&logo=github)](https://github.com/logicinfinite/self-updating-youtube-video-title/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
-
+**Check out links below** to know [more](https://github.com/vinitshahdeo/vinitshahdeo/blob/master/ABOUT.md) about me:
 
 - 🔭 I’m currently working on improving my [android app]-which lets you search for people around you who are currently using the app and chat with them.
 - 🌱 Most of my time is utilised in developing Android Applications  and Competitive Coding.
