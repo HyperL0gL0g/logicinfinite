@@ -1,0 +1,24 @@
+### Hello :wave:
+
+I'm **[Abhinava Ghosh](https://www.linkedin.com/in/abhinav-ghosh-aa71b4195/)**, a human being who is passionate about simplifying things through technology.
+Currently I am a final year student pursuing Computer Science And Engineering. I work with all kinds of modern Java,Android and JavaScript Applications. **You can find me on [LinkedIn](https://www.linkedin.com/in/abhinav-ghosh-aa71b4195/)**.
+
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@logicinfinite&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/abhinav-ghosh-aa71b4195/)
+
+My charitable motivation, coupled with a passion for what I am doing, inspires me for Open Source. 
+I am **addicted to green dots** on [GitHub](https://github.com/logicinfinite?tab=repositories).
+
+[![Abhinava Ghosh's github stats](https://github-readme-stats.vercel.app/api?username=logicinfinite&show_icons=true)](https://github.com/logicinfinite/)
+
+### :gear: My skills include:
+
+- **Languages**:`Java` `C`, `C++`, `JavaScript`,`Python`
+
+- **Frontend**: `React`, `HTML`,`CSS`
+
+- **Backend**: `Node.js`, `Express`,`PHP`
+
+- **Databases**: `MySQL`, `MongoDB`,`Oracle`
+
+
+- **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*
