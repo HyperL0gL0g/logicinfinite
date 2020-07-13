@@ -52,4 +52,4 @@ if (_.isAwesome(thisRepo)) {
 ----
 
 
-[![github.com/logicinfinite](https://raw.githubusercontent.com/logicinfinite/logiciinfinite/master/logicinfinite-graph.png)](https://github.com/logicinfinite/)
+[![github.com/logicinfinite](https://raw.githubusercontent.com/logicinfinite/logicinfinite/master/logicinfinite-graph.png)](https://github.com/logicinfinite/)
