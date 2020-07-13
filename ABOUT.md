@@ -1,6 +1,6 @@
 ### Hello :wave:
 
-I'm **[Abhinava Ghosh](https://www.linkedin.com/in/abhinav-ghosh-aa71b4195/)**, a human being who is passionate about simplifying things through technology.
+I'm **[Abhinava Ghosh](https://www.linkedin.com/in/abhinav-ghosh-aa71b4195/)**, a Computer Science and Engineering Student who is passionate about simplifying things through technology.
 Currently I am a final year student pursuing Computer Science And Engineering. I work with all kinds of modern Java,Android and JavaScript Applications. **You can find me on [LinkedIn](https://www.linkedin.com/in/abhinav-ghosh-aa71b4195/)**.
 
  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@logicinfinite&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/abhinav-ghosh-aa71b4195/)
