@@ -12,7 +12,7 @@ I am **addicted to green dots** on [GitHub](https://github.com/logicinfinite?tab
 
 ### :gear: My skills include:
 
-- **Languages**:`Java` `C`, `C++`, `JavaScript`,`Python`
+- **Languages**:`Java`, `C`, `C++`, `JavaScript`,`Python`
 
 - **Frontend**: `React`, `HTML`,`CSS`
 
@@ -36,4 +36,20 @@ I am **addicted to green dots** on [GitHub](https://github.com/logicinfinite?tab
 
 ### :hugs: Thank You!
 
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/vinitshahdeo/vinitshahdeo)! :v:
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/logicinfinite/logicinfinite)! :v:
+
+
+
+
+----
+```javascript
+
+if (_.isAwesome(thisRepo)) {
+  thisRepo.star(); // thanks in advance :p
+}
+
+```
+----
+
+
+[![github.com/logicinfinite](https://raw.githubusercontent.com/logicinfinite/logiciinfinite/master/logicinfinite-graph.png)](https://github.com/logicinfinite/)
