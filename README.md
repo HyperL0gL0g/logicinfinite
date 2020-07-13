@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Some info about me-
+### Some info about me-
 
 - 🔭 I’m currently working on improving my [android app]-which lets you search for people around you who are currently using the app and chat with them.
 - 🌱 I’m currently learning Android App development and also i have taken my first baby steps towards competitive coding(Wish me luck!)
