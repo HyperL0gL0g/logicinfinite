@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/logicinfinite?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: learning my first programming language  to becoming an aspiring software developer . Outside of [GitHub](https://github.com/logicinfinite/), catch me for a quick game of FIFA. I am always down for talks and discussions on theoretical physics . You can **find me on [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/abhinav-ghosh-aa71b4195//)**.
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/logicinfinite?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: learning my first programming language  to becoming an aspiring software developer . Outside of [GitHub](https://github.com/logicinfinite/), catch me for a quick game of FIFA. I am always down for talks and discussions on theoretical physics . You can **find me on [LinkedIn](www.linkedin.com/in/abhinavghosh7/)**.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/logicinfinite) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=logicinfinite.visitor-badge)](https://github.com/logicinfinite) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/logicinfinite)
 
