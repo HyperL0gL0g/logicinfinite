@@ -19,7 +19,7 @@
 - 🌱 Most of my time is utilised in developing Android Applications  and Competitive Coding.
 - 👯 I’m looking to collaborate on projects related to Android App Development and web based projects also.Hit me up if you have an idea and want to collaborate.
 - 🤔 I’m looking for help with Android UI/UX collaborators  .
-- 💬 Ask me about anythying related to computer science or theoretical physics!
+- 💬 Ask me about anything related to computer science or theoretical physics!
 - 📫 How to reach me: connect with me on [discord] https://discord.com/invite/WekzwGG
 - ⚡ Fun fact: im not funny!
 
