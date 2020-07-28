@@ -22,5 +22,4 @@
 - 🤔 I’m looking for help with Android UI/UX collaborators  .
 - 💬 Ask me about anything related to computer science or theoretical physics!
 - 📫 How to reach me: connect with me on [discord] https://discord.com/invite/WekzwGG
-- ⚡ Fun fact: i have a HTTP joke but it is not secure!
-
+- ⚡ Fun fact: i have a 'HTTP' joke but it is not 'secure', I also have a 'UDP' joke but you  might not 'get' it.
