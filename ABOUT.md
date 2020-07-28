@@ -25,7 +25,7 @@ I am **addicted to green dots** on [GitHub](https://github.com/logicinfinite?tab
 
 ### :arrow_down: Check out links below to know more about me:
 
-- :leetcode: **(https://leetcode.com/abhinav_7/)**
+- :leetcode: **(https://leetcode.com/abhinava_ghosh/)**
 
 - :hackerrank: **(https://www.hackerrank.com/ghoshabhinavjio/)**
 
