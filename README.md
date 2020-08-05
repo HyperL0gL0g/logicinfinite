@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/logicinfinite?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: learning my first programming language  to becoming an aspiring software developer . Outside of [GitHub](https://github.com/logicinfinite/), catch me for a quick game of FIFA. I am always down for talks and discussions on theoretical physics . You can **find me on [LinkedIn](https://www.linkedin.com/in/abhinavghosh7/)**.
 
