@@ -1,9 +1,14 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/logicinfinite?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: learning my first programming language  to becoming an aspiring software developer . Outside of [GitHub](https://github.com/logicinfinite/), catch me for a quick game of FIFA. I am always down for talks and discussions on theoretical physics . You can **find me on [LinkedIn](https://www.linkedin.com/in/abhinavghosh7/)**.
+**Glad to see you here!** :star_struck: <br> Hello , fellow developers .Welcome to my humble Github profile . Here you will find the projects that i am  working on currently  and also the ones  i have made in the past.
+I believe in making  productive stuffs (mostly computer and mobile software) that would help people in some way or the other and make their lives a bit easier.
 
-You can check out my blog here: **find me on [Dev.to](https://dev.to/the_unconventional_coder)**.
+
+You can **find me on [LinkedIn](https://www.linkedin.com/in/abhinavghosh7/)**
+![alt image](https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png)
+
+You can check out my blog here: **find me on ![Dev.to]((https://dev.to/the_unconventional_coder)**.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/logicinfinite) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=logicinfinite.visitor-badge)](https://github.com/logicinfinite) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/logicinfinite)
 
