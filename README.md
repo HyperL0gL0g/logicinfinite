@@ -5,7 +5,7 @@
 I believe in making  productive software (mostly computer and mobile software) that would help people in some way or the other and make their lives a bit easier.
 
 You can **find me on [LinkedIn](https://www.linkedin.com/in/abhinavghosh7/)**
-You can check out my blog here: **find me on [Dev.to]((https://dev.to/the_unconventional_coder)**.
+You can check out my blog here: **[Dev.to](https://dev.to/the_unconventional_coder)**.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/logicinfinite) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=logicinfinite.visitor-badge)](https://github.com/logicinfinite) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/logicinfinite)
 
