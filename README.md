@@ -17,8 +17,8 @@ You can check out my blog here: **find me on [Dev.to](https://dev.to/the_unconve
 | [**Folder-Monitoring-Script**](https://github.com/logicinfinite/monitor_your_folder) | [![GitHub issues](https://img.shields.io/github/issues/logicinfinite/self-updating-youtube-video-title?color=green&logo=github&style=flat)](https://github.com/logicinfinite/monitor_your_folder/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/logicinfinite/monitor_your_folder?style=flat&logo=github)](https://github.com/logicinfinite/monitor_your_folder/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/logicinfinite/monitor_your_folder?style=flat&color=critical&logo=github)](https://github.com/logicinfinite/monitor_your_folder/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
-**Check out links below** to know [more](https://github.com/logicinfinite/logicinfinite/blob/master/ABOUT.md) about me:
-
+ To know  more about me :point_left: [!more](https://github.com/logicinfinite/logicinfinite/blob/master/ABOUT.md) 
+ 
 - 🔭 I’m currently working on improving my [android app](https://github.com/logicinfinite/project01)-which lets you search for people around you who are currently using the app and chat with them.
 - 🌱 Most of my time is utilised in developing Android Applications  and Competitive Coding.
 - 👯 I’m looking to collaborate on projects related to Android App Development and web based projects also.Hit me up if you have an idea and want to collaborate.
