@@ -19,7 +19,7 @@ You can check out my blog here: **find me on [Dev.to](https://dev.to/the_unconve
 
 **Check out links below** to know [more](https://github.com/logicinfinite/logicinfinite/blob/master/ABOUT.md) about me:
 
-- 🔭 I’m currently working on improving my [android app]-which lets you search for people around you who are currently using the app and chat with them.
+- 🔭 I’m currently working on improving my [android app](https://github.com/logicinfinite/project01)-which lets you search for people around you who are currently using the app and chat with them.
 - 🌱 Most of my time is utilised in developing Android Applications  and Competitive Coding.
 - 👯 I’m looking to collaborate on projects related to Android App Development and web based projects also.Hit me up if you have an idea and want to collaborate.
 - 🤔 I’m looking for help with Android UI/UX collaborators  .
