@@ -4,6 +4,7 @@
   - 🎯 I'm currently working on various Android  and Web Based projects.
   - 🚀 I'm working on improving my project <a href = "https://github.com/project01/Clrd."> Locate and Chat.</a> which is due on September 2020.
   - 📧 You can reach me at: ghoshabhinavjio@gmail.com
+  - :book: Visit my Blog on  dev.to : <a href = "https://dev.to/the_unconventional_coder"> My Blog .</a>
   - 💼 _I'm actively seeking internship opportunities._
   
 <p>&nbsp;</p>
@@ -29,9 +30,15 @@
 
 <p>&nbsp;</p>
 
-You can **find me on [LinkedIn](https://www.linkedin.com/in/abhinavghosh7/)** <br>
+## ☎️ Contact Me:
+<p align="center">
+<a href = "mailto:ghoshabhinavjio@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
+<a href = https://github.com/logicinfinte><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
+<a href = https://dev.to/the_unconventional_coder><img src='https://img.icons8.com/windows/32/000000/dev.png' alt='dev.to' height='40'></a>   
+<a href = https://www.linkedin.com/in/abhinavghosh7/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+<a href = https://www.facebook.com/abhinav.ghosh.35/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
 
-You can check out my blog here: **[Dev.to](https://dev.to/the_unconventional_coder)**.
+<p>&nbsp;</p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/logicinfinite)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/logicinfinite)
 
