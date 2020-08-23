@@ -36,7 +36,7 @@
 ## ☎️ Contact Me:
 <p align="center">
 <a href = "mailto:ghoshabhinavjio@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://github.com/logicinfinte><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
+<a href = https://github.com/logicinfinite><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href = https://dev.to/the_unconventional_coder><img src='https://img.icons8.com/windows/32/000000/dev.png' alt='dev.to' height='40'></a>   
 <a href = https://www.linkedin.com/in/abhinavghosh7/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
 <a href = https://www.facebook.com/abhinav.ghosh.35/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
