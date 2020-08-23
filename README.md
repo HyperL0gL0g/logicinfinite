@@ -1,15 +1,11 @@
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<p>&nbsp;</p>
-
 ## 📚 About Me:
-<a href="https://github.com/logicinfinite/"><img align="right" width="350" height="263" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
+<a href="https://github.com/logicinfinite/"><img align="right" width="350" height="233" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
   - 👨‍🏫 I'm a final year Computer Science Student at KIIT UNIVERSITY .
-  - 🎯 I'm currently working on Android based projects.
+  - 🎯 I'm currently working on various Android  and Web Based projects.
+  - 🚀 I'm working on improving my project <a href = "https://github.com/project01/Clrd."> Locate and Chat.</a> which is due on September 2020.
   - 📧 You can reach me at: ghoshabhinavjio@gmail.com
   - 💼 _I'm actively seeking internship opportunities._
-
+  
 <p>&nbsp;</p>
 
 ## 👨🏻‍💻 My Languages/Tools:
