@@ -2,7 +2,7 @@
 <a href="https://github.com/logicinfinite/"><img align="right" width="350" height="233" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
   - 👨‍🏫 I'm a final year Computer Science Student at KIIT UNIVERSITY .
   - 🎯 I'm currently working on various Android  and Web Based projects.
-  - 🚀 I'm working on improving my project <a href = "https://github.com/project01/Clrd."> Locate and Chat.![80%](https://progress-bar.dev/80)</a> which is due on September 2020.
+  - 🚀 I'm working on improving my project <a href = "https://github.com/project01/Clrd."> Locate and Chat.</a> which is due on September 2020.![80%](https://progress-bar.dev/80)
   - 📧 You can reach me at: ghoshabhinavjio@gmail.com
   - :book: Visit my Blog on  dev.to : <a href = "https://dev.to/the_unconventional_coder"> My Blog .</a>
   - :worried: Preparing for SDE interviews? Join my Server:  <a href="https://discord.com/invite/WekzwGG"> Discord.</a>  
