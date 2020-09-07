@@ -23,18 +23,7 @@ I am **addicted to green dots** on [GitHub](https://github.com/logicinfinite?tab
 
 - **Technical Practices**: *Agile*, *Test Driven Development*, *REST API Design*, *DevOps*
 
-### :arrow_down: Check out links below to know more about me:
-
-- :dev.to: **(https://dev.to/the_unconventional_coder/)**
-
-- :leetcode: **(https://leetcode.com/abhinava_ghosh/)**
-
-- :hackerrank: **(https://www.hackerrank.com/ghoshabhinavjio/)**
-
-- :hackerearth: **(\https://www.hackerearth.com/@abhinav706/)**
-
-- :binarysearch.io: **https://binarysearch.io/@/linux)**
-
+  ---
 
 ### :hugs: Thank You!
 
