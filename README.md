@@ -61,7 +61,7 @@
 
  To know  more about me :point_right: [about me ](https://github.com/logicinfinite/logicinfinite/blob/master/ABOUT.md) 
  
-- 🔭 I’m currently working on improving my [android app](https://github.com/logicinfinite/project01)-which lets you search for people around you who are currently using the app and chat with them.
+- 🔭 I’m currently working on my app called **my placement buddy** -which keeps track of all the companies in which you have applied for and what stages each application  is in  and also has a remainder to remind you beforehand so that you dont miss any interview rounds.
 - 🌱 Most of my time is utilised in developing Android Applications  and Competitive Coding.
 - 👯 I’m looking to collaborate on projects related to Android App Development and web based projects also.Hit me up if you have an idea and want to collaborate.
 - 🤔 I’m looking for help with Android UI/UX collaborators  .
