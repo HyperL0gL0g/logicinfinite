@@ -4,7 +4,6 @@
   - 🎯 I'm currently working on various Android  and Web Based projects.
   - 📧 You can reach me at: ghoshabhinavjio@gmail.com
   - :book: Visit my Blog on  dev.to : <a href = "https://dev.to/the_unconventional_coder"> My Blog .</a>
-  - :worried: Preparing for SDE interviews? Join my Server:  <a href="https://discord.com/invite/WekzwGG"> Discord.</a>  
   - 💼 _I'm actively seeking internship opportunities._
   
 <p>&nbsp;</p>
@@ -42,7 +41,7 @@
 <a href = https://dev.to/the_unconventional_coder><img src='https://img.icons8.com/windows/32/000000/dev.png' alt='dev.to' height='40'></a>   
 <a href = https://www.linkedin.com/in/abhinavghosh7/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
 <a href = https://www.facebook.com/abhinav.ghosh.35/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
-<a href=  https://discord.com/invite/WekzwGG><img src='https://img.icons8.com/color/50/000000/discord-logo.png' alt='discord' height='40'/></a>
+
 
 <p>&nbsp;</p>
 
@@ -66,5 +65,4 @@
 - 👯 I’m looking to collaborate on projects related to Android App Development and web based projects also.Hit me up if you have an idea and want to collaborate.
 - 🤔 I’m looking for help with Android UI/UX collaborators  .
 - 💬 Ask me about anything related to computer science or theoretical physics!
-- 📫 How to reach me: connect with me on [discord] https://discord.com/invite/WekzwGG
 - ⚡ Fun fact: i have a 'HTTP' joke but it is not 'secure', I also have a 'UDP' joke but you  might not 'get' it.
