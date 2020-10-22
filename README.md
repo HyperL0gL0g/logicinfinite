@@ -1,5 +1,5 @@
 ## 📚 About Me:
-<a href="https://github.com/logicinfinite/"><img align="right" width="350" height="233" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
+<a href="https://github.com/logicinfinite/"><img align="right" width="350" height="213" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
   - 👨‍🏫 I'm a final year Computer Science Student at KIIT UNIVERSITY .
   - 🎯 I'm currently working on various Android  and Web Based projects.
   - 📧 You can reach me at: ghoshabhinavjio@gmail.com
