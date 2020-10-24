@@ -54,7 +54,10 @@
 | [**Tractive**](https://github.com/logicinfinite/live-activity-tracking-android-app) | [![GitHub issues](https://img.shields.io/github/issues/logicinfinite/live-activity-tracking-android-app?color=green&logo=github&style=flat)](https://github.com/logicinfinte/live-activity-tracking-android-app/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/logicinfinite/live-activity-tracking-android-app?style=flat&logo=github)](https://github.com/logicinfinte/live-activity-tracking-android-app/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/logicinfinite/live-activity-tracking-android-app?style=flat&color=critical&logo=github)](https://github.com/logicinfinite/live-activity-tracking-android-app/pulls?q=is%3Apr+is%3Aclosed)  |
 | [**College Training and Placement App**](https://github.com/logicinfinite/KIIT-TNP) | [![GitHub issues](https://img.shields.io/github/issues/logicinfinite/KIIT-TNP?color=green&logo=github&style=flat)](https://github.com/logicinfinite/KIIT-TNP/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/logicinfinite/KIIT-TNP?style=flat&logo=github)](https://github.com/logicinfinite/KIIT-TNP/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/logicinfinite/KIIT-TNP?style=flat&color=critical&logo=github)](https://github.com/logicinfinite/KIIT-TNP/pulls?q=is%3Apr+is%3Aclosed)   |
 
+ ---
 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=logicinfinite&show_icons=true&theme=gotham)
 
  To know  more about me :point_right: [about me ](https://github.com/logicinfinite/logicinfinite/blob/master/ABOUT.md) 
  
