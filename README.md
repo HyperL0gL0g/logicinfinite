@@ -4,7 +4,7 @@
   - 🎯 I'm currently working on various Android  and Web Based projects.
   - 📧 You can reach me at: ghoshabhinavjio@gmail.com
   - :book: Visit my Blog on  dev.to : <a href = "https://dev.to/the_unconventional_coder"> My Blog .</a>
-  - :anchor: Check put my latest creation <a href = "https://www.producthunt.com/upcoming/instacheckin/"> here </a>
+  - :anchor: Check out my latest creation <a href = "https://www.producthunt.com/upcoming/instacheckin/"> here </a>
   - 💼 _I'm actively seeking internship opportunities._
   
 <p>&nbsp;</p>
