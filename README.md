@@ -15,11 +15,10 @@
 <div>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" lt="android" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" lt="java" width="40" height="40"/> 
+<img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="40" height="40"/>
+<img src="https://img.icons8.com/dusk/64/000000/html-5.png" alt="html5" width="40" height="40"/> 
+<img src="https://img.icons8.com/dusk/64/000000/javascript.png" alt="javascript" width="40" height="40"/>  
 <p>&nbsp;</p>
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;
