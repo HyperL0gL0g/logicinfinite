@@ -15,6 +15,11 @@
 <div>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" lt="android" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" lt="java" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png" lt="java" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" lt="java" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/firebase.png" lt="java" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" lt="java" width="40" height="40"/> 
 <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" lt="java" width="40" height="40"/> 
 <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/dusk/64/000000/html-5.png" alt="html5" width="40" height="40"/> 
