@@ -1,7 +1,7 @@
 ## 📚 About Me:   <a href = "http://itsabhinav.me/">itsabhinav.me</a>
 <a href="https://github.com/logicinfinite/"><img align="right" width="350" height="213" src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/aboutme.gif"></a>
   - 👨‍🏫 I'm a final year Computer Science Student at KIIT UNIVERSITY .
-  - 🎯 I'm currently  learning Flutter.
+  - 🎯 I'm currently working as a Software Engineer.
   - 📧 You can reach me at: ghoshabhinavjio@gmail.com
   - :book: Visit my Blog on  dev.to : <a href = "https://dev.to/the_unconventional_coder"> My Blog .</a>
   - :anchor: Check out my latest creation <a href = "https://www.producthunt.com/upcoming/instacheckin/"> here </a>
